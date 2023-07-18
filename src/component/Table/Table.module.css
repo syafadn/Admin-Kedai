@@ -1,0 +1,121 @@
+.search {
+    width: 308px;
+    height: 36px;
+  }
+  
+  .searchinput {
+    border: none;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0, 25rem;
+  }
+  
+  .thead {
+    box-sizing: border-box;
+    background-color: #6c89ff;
+    color: #12100e;
+  }
+  
+  .tbody {
+    background-color: #ffffff;
+  }
+  
+  .container {
+    background-color: #fefaf5;
+  }
+  
+  .container-fluid {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .tableSpan {
+    color: #b2b3b2;
+  }
+  
+  .previous {
+    background-color: #ffffff;
+  }
+  
+  .itemsPerPage {
+    width: 60px;
+    height: 35px;
+    border: 1px solid #ececec;
+    border-radius: 6px;
+  }
+  
+  .paginationPage {
+    border: none;
+    width: 30px;
+    height: 34px;
+    color: #b2b3b2;
+    border-radius: 8px;
+  }
+  
+  .paginationPage:hover {
+    background-color: #273871;
+    color: #ffffff;
+  }
+  
+  .btnleft {
+    width: 30px;
+    height: 34px;
+    background-color: #f2f3f2;
+    border-radius: 8px;
+    border: none;
+  }
+  
+  .btnright {
+    width: 30px;
+    height: 34px;
+    background-color: #f2f3f2;
+    border-radius: 8px;
+    border: none;
+  }
+  
+  .vector {
+    cursor: pointer;
+    position: relative;
+    bottom: 32px;
+    left: 280px;
+  }
+  
+  .tableRow:hover {
+    background-color: #fffcf8;
+    transition: background-color 0.3s ease;
+  }
+  
+  .actionButton {
+    visibility: hidden;
+    margin-right: 10px;
+  }
+  
+  .tableRow:hover .actionButton {
+    visibility: visible;
+  }
+  
+  .active {
+    background-color: #252471;
+    color: #ffffff;
+  }
+  
+  .roundedLeftTop {
+    border-top-left-radius: 16px;
+  }
+  
+  .roundedRightTop {
+    border-top-right-radius: 16px;
+  }
+  
+  .tableHeadRow {
+    background-color: #93a9ff !important;
+    border-bottom-color: transparent !important;
+  }
+
+  .image {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+  }

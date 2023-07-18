@@ -1,0 +1,9 @@
+.mainContent {
+    margin: 112px 32px 32px 32px !important;
+}
+
+.bg {
+  background-color: rgb(237, 237, 237);
+  width: 100%;
+  height: 100vh !important;
+}

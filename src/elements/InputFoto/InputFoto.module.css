@@ -1,0 +1,57 @@
+.inputBox {
+    position: relative;
+    flex: 1;
+  }
+  
+  .inputWrapper {
+    position: relative;
+  }
+  
+  .input {
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px 15px;
+    border: 1px solid #9d968f;
+  }
+  
+  .input:focus {
+    outline: none;
+  }
+  
+  .input:autofill {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+    box-shadow: 0 0 0 30px white inset !important;
+  }
+  .error {
+    border: 1px solid #ff0000;
+  }
+  
+  .inputTitle {
+    position: absolute;
+    top: -7px;
+    left: 10px;
+    padding: 0 5px;
+    font-size: 11px;
+    background: #ffffff;
+    z-index: 1;
+  }
+  
+  .errorTitle {
+    color: #ff0000;
+  }
+  
+  .iconButton {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .icon {
+    width: 16px;
+    height: 16px;
+  }  

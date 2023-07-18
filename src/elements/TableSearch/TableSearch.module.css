@@ -1,0 +1,18 @@
+.search {
+  width: 308px;
+  height: 36px;
+}
+
+.searchinput {
+  border: none;
+  background: #fffdfc;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0, 25rem;
+}
+
+.vector {
+  cursor: pointer;
+  position: relative;
+  bottom: 32px;
+  left: 280px;
+}

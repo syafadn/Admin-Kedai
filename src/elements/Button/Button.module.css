@@ -1,0 +1,24 @@
+.btnContainer {
+    padding: 10px 24px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .brown {
+    background-color: #34488a;
+    color: #ffffff;
+  }
+  
+  .brown:hover {
+    background-color: #a1b0e4;
+  }
+  
+  .white {
+    background-color: #ffffff;
+    color: #b2b3b2;
+  }
+  
+  .white:hover {
+    background-color: #f2f3f2;
+  }
